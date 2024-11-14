@@ -1,0 +1,14 @@
+C:\Users\2023202060022\source\repos\ExemploExcecao\bin\Debug\net8.0\ExemploExcecao.exe
+C:\Users\2023202060022\source\repos\ExemploExcecao\bin\Debug\net8.0\ExemploExcecao.deps.json
+C:\Users\2023202060022\source\repos\ExemploExcecao\bin\Debug\net8.0\ExemploExcecao.runtimeconfig.json
+C:\Users\2023202060022\source\repos\ExemploExcecao\bin\Debug\net8.0\ExemploExcecao.dll
+C:\Users\2023202060022\source\repos\ExemploExcecao\bin\Debug\net8.0\ExemploExcecao.pdb
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.AssemblyInfoInputs.cache
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.AssemblyInfo.cs
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.csproj.CoreCompileInputs.cache
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.dll
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\refint\ExemploExcecao.dll
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.pdb
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ExemploExcecao.genruntimeconfig.cache
+C:\Users\2023202060022\source\repos\ExemploExcecao\obj\Debug\net8.0\ref\ExemploExcecao.dll
